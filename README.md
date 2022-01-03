@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @AJFirewolf, aka Tyler
-- 👀 I’m interested in FOSS, Linux, WSL, Windows 10, Furry Fandom 
+- 👀 I’m interested in FOSS, Linux, WSL, Windows, & Furry Fandom 
 - 🌱 I’m currently learning Vim & tmux
 - 📫 How to reach me: Twitter: [@firewuff](https://twitter.com/firewuff), [email](admin@itsafurrything.com)
 
